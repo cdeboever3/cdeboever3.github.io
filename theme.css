@@ -12,3 +12,16 @@ body {
 .theme-showcase > p > .btn {
   margin: 5px 0;
 }
+
+body {
+  background: 
+    url(http://images.cdn.fotopedia.com/_avPIZmqM3w-7z161LH_268-hd.jpg)
+    no-repeat
+    center
+    center
+    fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
