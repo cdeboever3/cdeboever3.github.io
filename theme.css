@@ -13,6 +13,10 @@ body {
   margin: 5px 0;
 }
 
+.col-sm-4{
+  max-width:320px !important;
+}
+
 body {
   background: 
     url(http://cdeboever3.github.io.s3.amazonaws.com/2013-03-23%2011.01.22.jpg)
