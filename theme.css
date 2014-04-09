@@ -25,3 +25,12 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.clickable{
+    cursor: pointer;   
+}
+
+.panel-heading span {
+	margin-top: -20px;
+	font-size: 15px;
+}
