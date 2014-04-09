@@ -41,7 +41,7 @@ body {
 and (min-device-width : 768px)
 and (max-device-width : 1024px) {
     body {
-        background-image:url('https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg');
+        background-image:url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg);
     }
 }
 
@@ -50,7 +50,7 @@ and (max-device-width : 1024px) {
 and (min-width : 321px)
 and (max-width: 480px) {
     body {
-        background-image:url('https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg');
+        background-image:url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg);
     }
 }
 
@@ -58,7 +58,7 @@ and (max-width: 480px) {
 @media only screen
 and (max-width : 320px) {
     body {
-        background-image:url('https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg');
+        background-image:url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg);
     }
 }
 
