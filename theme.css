@@ -13,8 +13,8 @@ body {
   margin: 5px 0;
 }
 
-.col-sm-4{
-  max-width:320px !important;
+#twitter-widget-0 {
+  min-width:100% !important;
 }
 
 body {
