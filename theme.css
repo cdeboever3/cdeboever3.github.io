@@ -25,7 +25,7 @@ body {
 
 body {
   background: 
-    url(http://cdeboever3.github.io.s3.amazonaws.com/2013-03-23%2011.01.22.jpg)
+    url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-11.01.22_reduced.jpg)
     no-repeat
     center
     center
@@ -34,6 +34,32 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+    body {
+        background-image:url('https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg')
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px)
+and (max-width: 480px) {
+    body {
+        background-image:url('https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg')
+    }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+    body {
+        background-image:url('https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg')
+    }
 }
 
 .clickable{
