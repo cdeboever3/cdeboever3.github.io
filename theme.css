@@ -60,10 +60,6 @@ and (max-width: 768px) {
   	  left
   	  top
   	  fixed;
-  	  -webkit-background-size: cover;
-  	  -moz-background-size: cover;
-  	  -o-background-size: cover;
-  	  background-size: cover;
     }
 }
 /* iPads (portrait and landscape) ----------- */
