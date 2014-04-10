@@ -26,12 +26,10 @@ body {
 @media only screen
 and (max-width : 320px) {
     body {
-  	background: 
-  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
-  	  no-repeat
-  	  left 
-  	  top
-  	  fixed;
+	background: -webkit-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Fx 3.6-15*/
+	background: linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000), hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Standard*/
     }
 }
 
@@ -40,12 +38,10 @@ and (max-width : 320px) {
 and (min-width : 321px)
 and (max-width: 480px) {
     body {
-  	background: 
-  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
-  	  no-repeat
-  	  left
-  	  top
-  	  fixed;
+	background: -webkit-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Fx 3.6-15*/
+	background: linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000), hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Standard*/
     }
 }
 
@@ -54,12 +50,11 @@ and (max-width: 480px) {
 and (min-width : 481px)
 and (max-width: 768px) {
     body {
-  	background: 
-  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
-  	  no-repeat
-  	  left
-  	  top
-  	  fixed;
+	background: -webkit-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Fx 3.6-15*/
+	background: linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000), hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Standard*/
+    }
     }
 }
 /* iPads (portrait and landscape) ----------- */
@@ -67,12 +62,11 @@ and (max-width: 768px) {
 and (min-device-width : 769px)
 and (max-device-width : 1024px) {
     body {
-  	background: 
-  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
-  	  no-repeat
-  	  left
-  	  top
-  	  fixed;
+	background: -webkit-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000),hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Fx 3.6-15*/
+	background: linear-gradient(hsla(197, 38.6430%, 59.6908%, 0.8000), hsla(197, 38.6430%, 59.6908%, 0.4000)); /*Standard*/
+    }
     }
 }
 
