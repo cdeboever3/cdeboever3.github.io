@@ -27,7 +27,7 @@ body {
 and (min-device-width : 1025px) {
     body {
   	background: 
-	  url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-11.01.22_reduced.jpg)
+	  url(https://ghpages.s3.amazonaws.com/2013-03-23-11.01.22_reduced.jpg)
   	  no-repeat
   	  center
   	  center
@@ -45,7 +45,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px) {
     body {
   	background: 
-  	  url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
+  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
   	  no-repeat
   	  center
   	  center
@@ -63,7 +63,7 @@ and (min-width : 321px)
 and (max-width: 480px) {
     body {
   	background: 
-  	  url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
+  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
   	  no-repeat
   	  center
   	  center
@@ -80,7 +80,7 @@ and (max-width: 480px) {
 and (max-width : 320px) {
     body {
   	background: 
-  	  url(https://cdeboever3.github.io.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
+  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
   	  no-repeat
   	  center
   	  center
