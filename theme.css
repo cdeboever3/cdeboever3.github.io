@@ -32,10 +32,6 @@ and (max-width : 320px) {
   	  center
   	  center
   	  fixed;
-  	  -webkit-background-size: cover;
-  	  -moz-background-size: cover;
-  	  -o-background-size: cover;
-  	  background-size: cover;
     }
 }
 
@@ -50,10 +46,6 @@ and (max-width: 480px) {
   	  center
   	  center
   	  fixed;
-  	  -webkit-background-size: cover;
-  	  -moz-background-size: cover;
-  	  -o-background-size: cover;
-  	  background-size: cover;
     }
 }
 
@@ -85,10 +77,6 @@ and (max-device-width : 1024px) {
   	  center
   	  center
   	  fixed;
-  	  -webkit-background-size: cover;
-  	  -moz-background-size: cover;
-  	  -o-background-size: cover;
-  	  background-size: cover;
     }
 }
 
