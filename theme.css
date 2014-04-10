@@ -22,27 +22,9 @@ body {
   max-width:100% !important;
 }
 
-/* desktops ----------- */
+/* Smartphones ----------- */
 @media only screen
-and (min-device-width : 1025px) {
-    body {
-  	background: 
-	  url(https://ghpages.s3.amazonaws.com/2013-03-23-11.01.22_reduced.jpg)
-  	  no-repeat
-  	  center
-  	  center
-  	  fixed;
-  	  -webkit-background-size: cover;
-  	  -moz-background-size: cover;
-  	  -o-background-size: cover;
-  	  background-size: cover;
-    }
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
+and (max-width : 320px) {
     body {
   	background: 
   	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
@@ -57,7 +39,7 @@ and (max-device-width : 1024px) {
     }
 }
 
-/* Smartphones (landscape) ----------- */
+/* Smartphones ----------- */
 @media only screen
 and (min-width : 321px)
 and (max-width: 480px) {
@@ -75,12 +57,47 @@ and (max-width: 480px) {
     }
 }
 
-/* Smartphones (portrait) ----------- */
+/* Smartphones ----------- */
 @media only screen
-and (max-width : 320px) {
+and (min-width : 481px)
+and (max-width: 768px) {
     body {
   	background: 
   	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
+  	  no-repeat
+  	  center
+  	  center
+  	  fixed;
+  	  -webkit-background-size: cover;
+  	  -moz-background-size: cover;
+  	  -o-background-size: cover;
+  	  background-size: cover;
+    }
+}
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 769px)
+and (max-device-width : 1024px) {
+    body {
+  	background: 
+  	  url(https://ghpages.s3.amazonaws.com/2013-03-23-13.40.20_reduced_size.jpg)
+  	  no-repeat
+  	  center
+  	  center
+  	  fixed;
+  	  -webkit-background-size: cover;
+  	  -moz-background-size: cover;
+  	  -o-background-size: cover;
+  	  background-size: cover;
+    }
+}
+
+/* desktops ----------- */
+@media only screen
+and (min-device-width : 1025px) {
+    body {
+  	background: 
+	  url(https://ghpages.s3.amazonaws.com/2013-03-23-11.01.22_reduced.jpg)
   	  no-repeat
   	  center
   	  center
