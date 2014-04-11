@@ -24,7 +24,7 @@ body {
 
 /* phones, tablets, etc.----------- */
 @media only screen
-and (max-width : 1300px) {
+and (max-width : 1200px) {
     body {
 	background: hsla(197, 38.6430%, 59.6908%, 0.8000); 
 	background: rgba(112, 169, 192, 0.8000);
@@ -37,7 +37,7 @@ and (max-width : 1300px) {
 
 /* desktops ----------- */
 @media only screen
-and (min-device-width : 1301px) {
+and (min-device-width : 1201px) {
     body {
   	background: 
 	  url(https://ghpages.s3.amazonaws.com/2013-03-23-11.01.22_reduced.jpg)
